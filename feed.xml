@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2049</title>
+    <link>https://2049-podcast.github.io/</link>
+    <atom:link href="https://2049-podcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>2049年の未来を、ひとりで予測するポッドキャスト。AI、フィジカルAI、安全と信頼をテーマに、未来から今日を逆算して考えます。</description>
+    <language>ja</language>
+    <copyright>2049</copyright>
+    <itunes:author>2049</itunes:author>
+    <itunes:owner>
+      <itunes:name>2049</itunes:name>
+      <itunes:email>koki0807@i.softbank.jp</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://2049-podcast.github.io/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2049 第1回：なぜ2049年から考えるのか</title>
+      <description>2049は、2049年の未来をひとりで予測するポッドキャストです。第1回は番組の宣言。なぜ2045年ではなく2049年なのか、AIが同僚になる世界、フィジカルAIが街に出る世界、人と組織がシミュレーションされる世界という3つの風景から、今日の判断への含意を考えます。</description>
+      <enclosure url="https://muse.ai/podcasts/media/1492511683945160/8a3925b5-6806-4c96-b70c-68c6b772a95d/ep-b96683d7-d671-4a50-92fe-3d2f4cd7f084.mp3" length="2850661" type="audio/mpeg"/>
+      <guid isPermaLink="false">2049-ep1-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 08:55:22 GMT</pubDate>
+      <itunes:duration>5:56</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
