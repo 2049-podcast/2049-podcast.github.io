@@ -13,7 +13,7 @@
     <itunes:author>2049</itunes:author>
     <itunes:owner>
       <itunes:name>2049</itunes:name>
-      <itunes:email>koki0807@i.softbank.jp</itunes:email>
+      <itunes:email>koki.inoue@elith.ai</itunes:email>
     </itunes:owner>
     <itunes:image href="https://2049-podcast.github.io/cover.jpg"/>
     <itunes:category text="Technology"/>
@@ -32,3 +32,4 @@
     </item>
   </channel>
 </rss>
+
