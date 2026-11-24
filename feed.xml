@@ -7,18 +7,23 @@
     <title>2049RADIO</title>
     <link>https://2049-podcast.github.io/</link>
     <atom:link href="https://2049-podcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>ニュースの先に、何が起きるのか。
+    <description>そのニュースの、続きを予測する。
 
-AIが進化すると、ソフトウェアの価値はどこへ移るのか。ロボットが働き始めたら、会社や暮らしはどう変わるのか。次の当たり前は、どこから生まれるのか。
+AIが何でもつくれるなら、人は何にお金を払う？
+ロボットが働く会社で、人間は何をする？
+「安心して任せられること」が、次の競争力になる？
 
-「2049RADIO」は、AI・テクノロジー・ビジネスのニュースから、これからの変化を読み解く未来予測ポッドキャスト。株式会社Elith代表取締役CEOの井上顧基が、研究・開発・経営の現場で得た視点をもとに、技術と産業の次の展開を考えます。
+2049RADIOは、AI・テクノロジー・ビジネスのニュースから、仕事と暮らしの「次の当たり前」を探る未来予測ポッドキャストです。
 
-話題の発表や新製品を入り口に、「なぜ今なのか」「次に何が変わるのか」「自分なら何をつくるか」まで。事実と仮説を分けながら、ときには大胆に、ときには立ち止まって、その先の仕事・産業・暮らしを予測します。
+株式会社Elith代表取締役CEO・井上顧基が、研究と事業づくりの現場から、毎回ひとつの問いを掘り下げます。技術の仕組み、企業の思惑、普及を止める壁。その先で、誰が得をして、何の価値が変わるのか。
 
-技術をつくる人、事業をつくる人、次の変化を一緒に考えたい人へ。
+大胆な仮説も、意外な寄り道も。事実と仮説を分けながら、予測の理由と、外れるとしたらどんなときかまで考えます。
 
-パーソナリティ：井上顧基
-株式会社Elith代表取締役CEO。北陸先端科学技術大学院大学で量子コンピュータの材料探索を研究し、修士号を取得。会社経営と並行して、東北大学大学院医学系研究科の博士後期課程で医療AIを研究。</description>
+聴き終えたら、いつものニュースが少し違って見える。誰かに話したくなる未来の話を。
+
+【パーソナリティ】
+井上顧基 / Koki Inoue
+株式会社Elith代表取締役CEO。北陸先端科学技術大学院大学で量子コンピュータの材料探索を研究し、修士号を取得。会社経営と並行し、東北大学大学院医学系研究科の博士後期課程で医療AIを研究。</description>
     <language>ja</language>
     <copyright>2049RADIO</copyright>
     <itunes:author>2049RADIO</itunes:author>
@@ -26,7 +31,7 @@ AIが進化すると、ソフトウェアの価値はどこへ移るのか。ロ
       <itunes:name>2049RADIO</itunes:name>
       <itunes:email>koki.inoue@elith.ai</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://2049-podcast.github.io/cover-2049radio-slash-20261124.jpg"/>
+    <itunes:image href="https://2049-podcast.github.io/cover-2049radio-world-20261124.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
