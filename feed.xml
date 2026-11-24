@@ -4,14 +4,14 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2049</title>
+    <title>2049RADIO</title>
     <link>https://2049-podcast.github.io/</link>
     <atom:link href="https://2049-podcast.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>ニュースの先に、何が起きるのか。
 
 AIが進化すると、ソフトウェアの価値はどこへ移るのか。ロボットが働き始めたら、会社や暮らしはどう変わるのか。次の当たり前は、どこから生まれるのか。
 
-「2049」は、AI・テクノロジー・ビジネスのニュースから、これからの変化を読み解く未来予測ポッドキャスト。株式会社Elith代表取締役CEOの井上顧基が、研究・開発・経営の現場で得た視点をもとに、技術と産業の次の展開を考えます。
+「2049RADIO」は、AI・テクノロジー・ビジネスのニュースから、これからの変化を読み解く未来予測ポッドキャスト。株式会社Elith代表取締役CEOの井上顧基が、研究・開発・経営の現場で得た視点をもとに、技術と産業の次の展開を考えます。
 
 話題の発表や新製品を入り口に、「なぜ今なのか」「次に何が変わるのか」「自分なら何をつくるか」まで。事実と仮説を分けながら、ときには大胆に、ときには立ち止まって、その先の仕事・産業・暮らしを予測します。
 
@@ -20,19 +20,19 @@ AIが進化すると、ソフトウェアの価値はどこへ移るのか。ロ
 パーソナリティ：井上顧基
 株式会社Elith代表取締役CEO。北陸先端科学技術大学院大学で量子コンピュータの材料探索を研究し、修士号を取得。会社経営と並行して、東北大学大学院医学系研究科の博士後期課程で医療AIを研究。</description>
     <language>ja</language>
-    <copyright>2049</copyright>
-    <itunes:author>2049</itunes:author>
+    <copyright>2049RADIO</copyright>
+    <itunes:author>2049RADIO</itunes:author>
     <itunes:owner>
-      <itunes:name>2049</itunes:name>
+      <itunes:name>2049RADIO</itunes:name>
       <itunes:email>koki.inoue@elith.ai</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://2049-podcast.github.io/cover-monochrome-20261124.jpg"/>
+    <itunes:image href="https://2049-podcast.github.io/cover-2049radio-20261124.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>2049 第1回：なぜ2049年から考えるのか</title>
-      <description>2049は、AIとテクノロジーを手がかりに、これからの変化を考える未来予測ポッドキャストです。第1回は番組の宣言。なぜ2045年ではなく2049年なのか、AIが同僚になる世界、フィジカルAIが街に出る世界、人と組織がシミュレーションされる世界という3つの風景から、今日の判断への含意を考えます。</description>
+      <title>2049RADIO 第1回：なぜ2049年から考えるのか</title>
+      <description>2049RADIOは、AIとテクノロジーを手がかりに、これからの変化を考える未来予測ポッドキャストです。第1回は番組の宣言。なぜ2045年ではなく2049年なのか、AIが同僚になる世界、フィジカルAIが街に出る世界、人と組織がシミュレーションされる世界という3つの風景から、今日の判断への含意を考えます。</description>
       <enclosure url="https://muse.ai/podcasts/media/1492511683945160/8a3925b5-6806-4c96-b70c-68c6b772a95d/ep-b96683d7-d671-4a50-92fe-3d2f4cd7f084.mp3" length="2850661" type="audio/mpeg"/>
       <guid isPermaLink="false">2049-ep1-2026-11-22</guid>
       <pubDate>Sun, 22 Nov 2026 08:55:22 GMT</pubDate>
