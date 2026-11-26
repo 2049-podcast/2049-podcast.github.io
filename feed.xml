@@ -35,16 +35,5 @@ AIが何でもつくれるなら、人は何にお金を払う？
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>2049RADIO 第1回：なぜ2049年から考えるのか</title>
-      <description>2049RADIOは、AIとテクノロジーを手がかりに、これからの変化を考える未来予測ポッドキャストです。第1回は番組の宣言。なぜ2045年ではなく2049年なのか、AIが同僚になる世界、フィジカルAIが街に出る世界、人と組織がシミュレーションされる世界という3つの風景から、今日の判断への含意を考えます。</description>
-      <enclosure url="https://muse.ai/podcasts/media/1492511683945160/8a3925b5-6806-4c96-b70c-68c6b772a95d/ep-b96683d7-d671-4a50-92fe-3d2f4cd7f084.mp3" length="2850661" type="audio/mpeg"/>
-      <guid isPermaLink="false">2049-ep1-2026-11-22</guid>
-      <pubDate>Sun, 22 Nov 2026 08:55:22 GMT</pubDate>
-      <itunes:duration>5:56</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
   </channel>
 </rss>
